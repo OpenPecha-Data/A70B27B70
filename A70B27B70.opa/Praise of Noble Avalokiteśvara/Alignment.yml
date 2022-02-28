@@ -1,0 +1,25 @@
+segment_sources:
+  P587A2A9B:
+    type: origin_type
+    relation: translation
+    language: en
+  PF0496944:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0a5e2cf82df24c25b768e504c3c5b559:
+    P587A2A9B: 3c20ff3ee6f04b4a95eae1ffb067133c
+    PF0496944: 46f59b782ccc45da90b513e898190701
+  d2f9be82d11840a4b4fd5bfed73658d1:
+    P587A2A9B: 4da97810e9a4432aa38db75b70385481
+    PF0496944: 4a3af494c90c4b2a80b6e8a0b28c26c8
+  4f58848dc83e4092bebf3fdc2b5daa3d:
+    P587A2A9B: c7d876dcadcb442fbe299a214131e2f4
+    PF0496944: 5c249845a73f422889bbdf845bd41f23
+  45a82ccf1cdf4ab4bcc7226d5cf14cec:
+    P587A2A9B: c05840a02cf74d44b3003fdb3b331381
+    PF0496944: af912b69abd746bcb0e86271454132ca
+  71fd4304197a42a5b3ab8a2205584117:
+    P587A2A9B: 5ed7eaeca4c04bbcb6c80cdb35be1e02
+    PF0496944: c7df18cba0244e30b493afa66cd6204e
